@@ -1,6 +1,6 @@
-# 📊 Qubic 矿机监控技能
+# 📊 A池 Qubic 矿机监控技能
 
-> 你的 Qubic 矿机 24 小时私人管家，状态随时掌握！
+> 你的24 小时私人管家，状态随时掌握！
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14.0.0-green.svg)](https://nodejs.org/)
@@ -68,7 +68,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/qubic-miner-monitor.git
+git clone https://github.com/youtangge/qubic-miner-monitor.git
 cd qubic-miner-monitor
 
 # 安装依赖
@@ -77,7 +77,7 @@ npm install
 
 ### 2. 获取方糖 SendKey
 
-1. 访问 https://sct.ftqq.com/
+1. 关注方糖微信公众号
 2. 注册/登录账号
 3. 在后台获取 **SendKey**（类似 `SCTxxxxxxxxxx`）
 
@@ -336,12 +336,10 @@ cat logs/monitor.log
 如有问题或建议：
 
 - 📖 查看 [SKILL.md](SKILL.md) 获取详细技术文档
-- 🐛 提交 [Issue](https://github.com/YOUR_USERNAME/qubic-miner-monitor/issues)
+- 🐛 提交 [Issue](https://github.com/youtangge/qubic-miner-monitor/issues)
 - 📧 发送邮件至：your-email@example.com
 
 ---
-
-**祝你挖矿顺利，天天满勤！💰**
 
 ---
 
