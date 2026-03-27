@@ -1,6 +1,6 @@
-# 📊 A池 Qubic 矿机监控技能 可直接发给openclaw安装
+# 📊 A池 Qubic 矿机监控技能 
 
-> 你的24 小时私人管家，状态随时掌握！
+> 你的24小时私人管家，状态随时掌握！发给openclaw安装
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14.0.0-green.svg)](https://nodejs.org/)
