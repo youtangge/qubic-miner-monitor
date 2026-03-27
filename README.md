@@ -167,7 +167,7 @@ tail -f logs/monitor.log
 
 | 配置项 | 说明 | 示例 | 必填 |
 |--------|------|------|------|
-| account | Qubic 钱包地址 | `CP_l803exlxmm` | ✅ |
+| account | Qubic a池的挖矿用户 | `CP_lxxxxxmm` | ✅ |
 | offlineThreshold | 超过几台离线才告警 | `1`（2 台离线才提醒） | ✅ |
 | reportInterval | 几小时发送一次报告 | `1`（每小时） | ✅ |
 | serverChan.sendKey | 方糖推送密钥 | `SCTxxxxxxxxxx` | ✅ |
