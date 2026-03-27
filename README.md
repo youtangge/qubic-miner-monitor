@@ -89,7 +89,7 @@ node scripts/configure.js
 ```
 
 按提示输入：
-- **Qubic 钱包地址** - 你的 Apool 矿池账户（例如：`CP_l803exlxmm`）
+- **Qubic 钱包地址** - 你的 Apool 矿池账户（例如：`CP_lxxxxxm`）
 - **方糖 SendKey** - 刚才获取的 SendKey
 - **离线告警阈值** - 超过几台离线才告警（推荐：1）
 - **报告间隔** - 几小时发送一次报告（推荐：1-2）
